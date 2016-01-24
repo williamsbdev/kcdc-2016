@@ -1,0 +1,4 @@
+infrastructure as code
+immutable infrastructure
+docker deployments
+don't name your servers
